@@ -1,0 +1,27 @@
+---
+title: "Hi, it's Kimlin :)"
+image: "pic1.jpg"
+color1: "#CB7FE4"
+color2: "#69D9FF"
+angle: 130
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kimlin-chin/"
+  - label: GitHub
+    url: "https://github.com/KCtt457"
+  - label: Email
+    url: "mailto:kimlin.chin@mail.utoronto.ca"
+output:
+  postcards::onofre
+---
+ 
+Kimlin Chin is a 4-th year undergraduate student studying Computer Science,
+Statistics and Psychology at the University of Toronto, Canada. She is interested
+in web and software development, HCI and machine learning. Check out some of her
+projects at her GitHub link.
+
+#### Experience
+
+**Research Assistant** | Intelligent Adaptive Interventions Lab | May 2021 - Present
+
+**CSC108 Teaching Assistant** | University of Toronto Mississauga | September 2021 - December 2021
